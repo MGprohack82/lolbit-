@@ -1,0 +1,14 @@
+.body_background{
+    background:url("kids-doodles.jpg");
+    background-position:center;
+    background-size: cover;
+    color:black;
+    font-size:large;
+
+}
+#mycanvas{
+    border-color: blue;
+    background-color:rgb(229, 255, 81);
+    border-style: ridge;
+    border-width: 5;
+}
